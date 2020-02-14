@@ -1,30 +1,43 @@
 common:
     archive:
-        one: '아카이브'
-        other: '아카이브'
+        one: 'Archive'
+        other: 'Archives'
     category:
-        one: '카테고리'
-        other: '카테고리'
+        one: 'Category'
+        other: 'Categories'
     tag:
-        one: '태그'
-        other: '태그'
+        one: 'Tag'
+        other: 'Tags'
     post:
-        one: '포스트'
-        other: '포스트'
-    prev: '이전'
-    next: '다음'
+        one: 'Post'
+        other: 'Posts'
+    prev: '이전 글'
+    next: '다음 글'
 widget:
-    follow: '팔로우'
+    follow: '팔로우하기'
     recents: '최근 글'
     links: '링크'
-    tag_cloud: '태그 클라우드'
-    catalogue: '카탈로그'
+    tag_cloud: 'Tag Cloud'
+    catalogue: '목차'
+    email:
+        title: 'Subscribe Email'
+        button: 'Subscribe'
 article:
-    more: '자세히 보기'
+    more: 'Read More'
     comments: '댓글'
-    read: '읽기'
-    about: '대략'
-    words: '단어'
+    read: '소요'
+    about: '약'
+    words: '글자'
+donate:
+    title: 'Like this article? Support the author with'
+    alipay: 'Alipay'
+    wechat: 'Wechat'
+    paypal: 'Paypal'
+    patreon: 'Patreon'
+plugin:
+    backtotop: 'Back to Top'
+    visit: '%s visits'
+    visitor: 'Visited by %s users'    
 search:
     search: '검색'
     hint: '입력 하세요...'
