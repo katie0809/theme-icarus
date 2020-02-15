@@ -11,7 +11,7 @@ module.exports = {
             Archives: '/archives',
             Categories: '/categories',
             Tags: '/tags',
-            About: '/about'
+            Downloads: '/downloads'
         },
         '*': {
             [type]: 'string',
