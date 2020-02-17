@@ -217,17 +217,17 @@ plugins:
     # https://ppoffice.github.io/hexo-theme-icarus/Plugins/General/site-analytics-plugin/#Google-Analytics
     google-analytics:
         # Google Analytics tracking id
-        tracking_id: 
+        tracking_id: UA-158681991-1
     # Baidu Analytics plugin settings
     # https://ppoffice.github.io/hexo-theme-icarus/Plugins/General/site-analytics-plugin/#Baidu-Analytics
-    baidu-analytics:
+    # baidu-analytics:
         # Baidu Analytics tracking id
-        tracking_id: 
+        # tracking_id: 
     # Hotjar user feedback plugin
     # https://ppoffice.github.io/hexo-theme-icarus/Plugins/General/site-analytics-plugin/#Hotjar
-    hotjar:
+    # hotjar:
         # Hotjar site id
-        site_id: 
+        # site_id: 
     # Show a loading progress bar at top of the page
     progressbar: true
     # BuSuanZi site/page view counter
